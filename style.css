@@ -73,6 +73,7 @@ span{
 .bodybg{
     background-image: url(img/dd.jpg);
     font-family: 'Lato', sans-serif;
+    background-repeat: no-repeat;
 }
 h1{
     color: aliceblue; 
